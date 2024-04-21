@@ -1,5 +1,5 @@
 # EmotionAI
-Deep Learning MobileNetV2 to read 7 different facial emotion expressions.
+Keras Sequential Model to read 7 different facial emotion expressions.
 
 Dataset: FER2013 Google, https://www.kaggle.com/datasets/deadskull7/fer2013
 
