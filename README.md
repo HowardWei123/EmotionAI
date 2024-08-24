@@ -9,6 +9,6 @@ Python 3, [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org
 
 ## Progress
 
-Testing Accuracy: 60%
+Testing Accuracy: 60%+
 
 Please refer to confmatrix PNG.
