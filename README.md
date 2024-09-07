@@ -5,7 +5,7 @@ Dataset: [FER-2013 Google](https://www.kaggle.com/datasets/msambare/fer2013/data
 
 ## Dependencies
 
-Python 3, [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org/)
+Python3, [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org/)
 
 ## Progress
 
